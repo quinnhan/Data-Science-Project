@@ -6,4 +6,4 @@ So much for me to learn. Both platforms are **involved**. Who knew that you coul
 
 ## 1. Projects:
 1. 350K movies analysis via Azure:
-- Dataset: It's free from [Kaggle](https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg)
+- Dataset: It's free from [Kaggle](https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg) credit to user STEPHANERAPPENEAU
