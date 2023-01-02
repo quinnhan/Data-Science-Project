@@ -5,5 +5,6 @@ My GCP learning is through Google Qwiklabs which includes video lessions, labs a
 So much for me to learn. Both platforms are **involved**. Who knew that you could write a ML model and tune parameters in **SQL query** in Google Big Query. 
 
 ## 1. Projects:
+I started with a fundamental knowledge absorbsion before working on a project. I followed [Explore data analytics in Azure with Azure Synapse Analytics](https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-04-synapse-lab.html). This gives me understanding of how it works. It took about 30 min to complete because I scrutinized each step. Prior to this, it took me 5 days to figure out why firewall prevented me to run Azure SQL pool. TL;DR: I did not have port 80,443,1443 outbound set up. Restarted my computer and voilà. 
 1. 350K movies analysis via Azure:
 - Dataset: It's free from [Kaggle](https://www.kaggle.com/datasets/stephanerappeneau/350-000-movies-from-themoviedborg) credit to user STEPHANERAPPENEAU
